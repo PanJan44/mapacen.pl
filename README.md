@@ -13,6 +13,13 @@ Validation of input data is implemented in both frontend and backend layers. For
 
 ![registration](https://i.postimg.cc/GmNrhLB0/rejestracja.png)
 
+If registration and loggin in is successful, the following view will be showed:
+
+![main_view](https://i.postimg.cc/CKXjNqzv/po-Zalogowaniu.png)
+
+You can search a product by name:
+
+![search_by_name](https://i.postimg.cc/HxmLdYKY/wyszukiwanie-Po-Nazwie.png)
 
 # Division of tasks:
 
