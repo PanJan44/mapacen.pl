@@ -10,7 +10,7 @@ Regional price comparison web application.
 
 ## Overview
 Once you enter the site, you can create a new account or log in to existing one.
-Validation of input data is implemented in both frontend and backend layers. For example, email and password must match a regex. Moreover, account will not be created if input email already exists in the database.
+Validation of the input data is implemented in both frontend and backend. For example, email and password must match a regex. Moreover, account will not be created if input email already exists in the database.
 
 ![registration](https://i.postimg.cc/GmNrhLB0/rejestracja.png)
 
