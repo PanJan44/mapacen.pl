@@ -21,9 +21,13 @@ You can search for a product by name:
 
 ![search_by_name](https://i.postimg.cc/HxmLdYKY/wyszukiwanie-Po-Nazwie.png)
 
-Once you click an offer, full address of a sales point will show up. There is also a comment section where you can write your own comment or like/dislike someone else's comment. You can also add an offer to favourites section by hitting the heart button.
+Once you click an offer, full address of a sales point will show up. There is also a comment section where you can write your own comment or like/dislike someone else's comment. You can also add an offer to favourites section by hitting the heart button. It is worth mentioning that there is no way to like/dislike a comment more than once. Backend creators considered this case.
 
 ![comment](https://i.postimg.cc/yNbwyvmw/komentowanie-ILikowanie.png)
+
+It is inefficient to fetch all the offers from the database at once, so in order to avoid this, the pagination of results is implemented.
+
+![comment](https://i.postimg.cc/gJBB3Dhn/zmiana-Strony.png)
 
 # Division of tasks:
 
