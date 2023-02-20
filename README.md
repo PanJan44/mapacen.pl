@@ -21,6 +21,10 @@ You can search for a product by name:
 
 ![search_by_name](https://i.postimg.cc/HxmLdYKY/wyszukiwanie-Po-Nazwie.png)
 
+Searching for a product by category name only:
+
+![category](https://i.postimg.cc/zBc7MG0B/zmiana-Kategorii.png)
+
 Once you click an offer, full address of a sales point will show up. There is also a comment section where you can write your own comment or like/dislike someone else's comment. You can also add an offer to favourites section by hitting the heart button. It is worth mentioning that there is no way to like/dislike a comment more than once. Backend creators considered this case.
 
 ![comment](https://i.postimg.cc/yNbwyvmw/komentowanie-ILikowanie.png)
@@ -36,6 +40,14 @@ If an administrator is logged in, there are new features available. They can rem
 There is also a seperate section for administrators only. This is the place where products, categories, sales points and offers are added/modified/deleted and where users can be unbanned.
 
 ![admin_section](https://i.postimg.cc/gjzt97PS/panel-Admina-Wybor.png)
+
+Adding a new product: (any image can be uploaded, it will be resized in backend)
+
+![adding_product](https://i.postimg.cc/J0hw30tz/panel-Admina-Dodawanie-Produktu.png)
+
+## Database diagram
+
+![database](https://i.postimg.cc/zGxxW7KK/schemat-Bazy.png)
 
 # Division of tasks:
 
