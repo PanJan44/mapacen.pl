@@ -13,13 +13,17 @@ Validation of input data is implemented in both frontend and backend layers. For
 
 ![registration](https://i.postimg.cc/GmNrhLB0/rejestracja.png)
 
-If registration and loggin in is successful, the following view will be showed:
+If registration and logging in is successful, the following view will be showed:
 
 ![main_view](https://i.postimg.cc/CKXjNqzv/po-Zalogowaniu.png)
 
-You can search a product by name:
+You can search for a product by name:
 
 ![search_by_name](https://i.postimg.cc/HxmLdYKY/wyszukiwanie-Po-Nazwie.png)
+
+Once you click an offer, full address of a sales point will show up. There is also a comment section where you can write your own comment or like/dislike someone else's comment. You can also add an offer to favourites section by hitting the heart button.
+
+![comment](https://i.postimg.cc/yNbwyvmw/komentowanie-ILikowanie.png)
 
 # Division of tasks:
 
