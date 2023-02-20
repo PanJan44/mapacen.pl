@@ -5,6 +5,7 @@ Regional price comparison web application.
 ## Technologies
 * .NET 6.0 WebAPI
 * Entity Framework Core 6.0
+* MS SQL Server
 * Angular 14
 
 ## Overview
