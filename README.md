@@ -29,6 +29,10 @@ It is inefficient to fetch all the offers from the database at once, so in order
 
 ![comment](https://i.postimg.cc/gJBB3Dhn/zmiana-Strony.png)
 
+If an administrator is logged in, there are new features available. They can remove a comment or ban an user.
+
+![comment](https://i.postimg.cc/vTh7W8kX/admin-Usuwanie-Komentarza-IBlokowanie.png)
+
 # Division of tasks:
 
 ## Frontend:
