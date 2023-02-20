@@ -27,11 +27,15 @@ Once you click an offer, full address of a sales point will show up. There is al
 
 It is inefficient to fetch all the offers from the database at once, so in order to avoid this, the pagination of results is implemented.
 
-![comment](https://i.postimg.cc/gJBB3Dhn/zmiana-Strony.png)
+![paging](https://i.postimg.cc/gJBB3Dhn/zmiana-Strony.png)
 
-If an administrator is logged in, there are new features available. They can remove a comment or ban an user.
+If an administrator is logged in, there are new features available. They can remove a comment or ban an user. Banned user cannot comment or like an offer.
 
-![comment](https://i.postimg.cc/vTh7W8kX/admin-Usuwanie-Komentarza-IBlokowanie.png)
+![delete_comment_by_admin](https://i.postimg.cc/vTh7W8kX/admin-Usuwanie-Komentarza-IBlokowanie.png)
+
+There is also a seperate section for administrators only. This is the place where products, categories, sales points and offers are added/modified/deleted and where users can be unbanned.
+
+![admin_section](https://i.postimg.cc/gjzt97PS/panel-Admina-Wybor.png)
 
 # Division of tasks:
 
