@@ -14,7 +14,7 @@ Validation of the input data is implemented in both frontend and backend. For ex
 
 ![registration](https://i.postimg.cc/GmNrhLB0/rejestracja.png)
 
-If registration and logging in is successful, the following view will be showed:
+If registration and logging in is successful, the following view will be shown:
 
 ![main_view](https://i.postimg.cc/CKXjNqzv/po-Zalogowaniu.png)
 
