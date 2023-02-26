@@ -10,11 +10,11 @@ Regional price comparison web application.
 
 ## Overview
 Once you enter the site, you can create a new account or log in to existing one.
-Validation of the input data is implemented in both frontend and backend. For example, email and password must match a regex. Moreover, account will not be created if input email already exists in the database.
+Validation of the input data is implemented in both frontend and backend. For example, email and password must match a regex. Moreover, account will not be created if the input email already exists in the database.
 
 ![registration](https://i.postimg.cc/GmNrhLB0/rejestracja.png)
 
-If registration and logging in is successful, the following view will be shown:
+If the registration and logging in is successful, the following view will be shown:
 
 ![main_view](https://i.postimg.cc/CKXjNqzv/po-Zalogowaniu.png)
 
@@ -26,7 +26,7 @@ Searching for a product by category name only:
 
 ![category](https://i.postimg.cc/zBc7MG0B/zmiana-Kategorii.png)
 
-Once you click an offer, full address of a sales point will show up. There is also a comment section where you can write your own comment or like/dislike someone else's comment. You can also add an offer to favourites section by hitting the heart button. It is worth mentioning that there is no way to like/dislike a comment more than once. Backend creators considered this case.
+Once you click an offer, full address of a sales point will show up. There is also a comment section where you can write your own comment or like/dislike someone else's comment. You can also add an offer to favourites by hitting the heart button. It is worth mentioning that there is no way to like/dislike a comment more than once. Backend creators considered this case.
 
 ![comment](https://i.postimg.cc/yNbwyvmw/komentowanie-ILikowanie.png)
 
@@ -34,7 +34,7 @@ It is inefficient to fetch all the offers from the database at once, so in order
 
 ![paging](https://i.postimg.cc/gJBB3Dhn/zmiana-Strony.png)
 
-If an administrator is logged in, there are new features available. They can remove a comment or ban an user. Banned user cannot comment on or like an offer and their all comments are deleted.
+If an administrator is logged in, there are new features available. They can remove a comment or ban an user. Banned user cannot comment on an offer and their all comments are deleted.
 
 ![delete_comment_by_admin](https://i.postimg.cc/vTh7W8kX/admin-Usuwanie-Komentarza-IBlokowanie.png)
 
@@ -52,17 +52,14 @@ Adding a new product: (any image can be uploaded, it will be resized in backend)
 
 # Division of tasks:
 
+## Backend:
+- Mateusz - https://github.com/matebab551
+- Janek - https://github.com/PanJan44
+
 ## Frontend:
 - Filip - https://github.com/corosto
 - Karol - https://github.com/my-memory-leaked
 - Dominik - https://github.com/DominikBarys
 
-## Backend:
-- Mateusz - https://github.com/matebab551
-- Janek - https://github.com/PanJan44
-
-## Designer:
+## Design:
 - Wiktor - https://github.com/wm1511
-
-**Copyright (C) 2023**
-**All rights reserved.**
