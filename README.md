@@ -48,7 +48,7 @@ Adding a new product: (any image can be uploaded, it will be resized in backend)
 
 ## Database diagram
 
-![database](https://i.postimg.cc/zGxxW7KK/schemat-Bazy.png)
+![database](https://i.postimg.cc/vTjJLTwK/diagram-BD.png)
 
 # Division of tasks:
 
