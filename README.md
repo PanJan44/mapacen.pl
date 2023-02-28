@@ -44,7 +44,7 @@ There is also a seperate section for administrators only. This is the place wher
 
 Adding a new product: (any image can be uploaded, it will be resized in backend)
 
-![adding_product](https://i.postimg.cc/J0hw30tz/panel-Admina-Dodawanie-Produktu.png)
+![adding_product](https://i.postimg.cc/NjSrYxF5/panel-Admina-Dodawanie-Produktu.png)
 
 ## Database diagram
 
