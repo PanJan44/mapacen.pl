@@ -32,7 +32,7 @@ Once you click an offer, full address of a sales point will show up. There is al
 
 It is inefficient to fetch all the offers from the database at once, so in order to avoid this, the pagination of results is implemented.
 
-![paging](https://i.postimg.cc/j5NHBFhx/zmiana-Strony.png)
+![paging](https://user-images.githubusercontent.com/30570850/221932747-d32dcc57-3967-4b82-a539-c00e6b073c3e.png)
 
 If an administrator is logged in, there are new features available. They can remove a comment or ban an user. Banned user cannot comment on an offer and their all comments are deleted.
 
